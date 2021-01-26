@@ -19,6 +19,8 @@
 		54B9203F25BF5DFB00DD6E31 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9203D25BF5DFB00DD6E31 /* Location.swift */; };
 		54B9204325BF60EE00DD6E31 /* LocationDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9204225BF60EE00DD6E31 /* LocationDetail.swift */; };
 		54B9204425BF60EE00DD6E31 /* LocationDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9204225BF60EE00DD6E31 /* LocationDetail.swift */; };
+		54B9205825BF9BFD00DD6E31 /* LocationStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9205725BF9BFD00DD6E31 /* LocationStore.swift */; };
+		54B9205925BF9BFD00DD6E31 /* LocationStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9205725BF9BFD00DD6E31 /* LocationStore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,7 @@
 		54B9203625BF5CB300DD6E31 /* tips.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tips.json; sourceTree = "<group>"; };
 		54B9203D25BF5DFB00DD6E31 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		54B9204225BF60EE00DD6E31 /* LocationDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetail.swift; sourceTree = "<group>"; };
+		54B9205725BF9BFD00DD6E31 /* LocationStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +117,7 @@
 				54B9203525BF5CB200DD6E31 /* locations.json */,
 				54B9203625BF5CB300DD6E31 /* tips.json */,
 				54B9203D25BF5DFB00DD6E31 /* Location.swift */,
+				54B9205725BF9BFD00DD6E31 /* LocationStore.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -219,6 +223,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54B9205825BF9BFD00DD6E31 /* LocationStore.swift in Sources */,
 				54B9204325BF60EE00DD6E31 /* LocationDetail.swift in Sources */,
 				54B9203E25BF5DFB00DD6E31 /* Location.swift in Sources */,
 				54B9202125BF5A6200DD6E31 /* TrekrMultiPlatformApp.swift in Sources */,
@@ -229,6 +234,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				54B9205925BF9BFD00DD6E31 /* LocationStore.swift in Sources */,
 				54B9204425BF60EE00DD6E31 /* LocationDetail.swift in Sources */,
 				54B9203F25BF5DFB00DD6E31 /* Location.swift in Sources */,
 				54B9202225BF5A6200DD6E31 /* TrekrMultiPlatformApp.swift in Sources */,
